@@ -1,0 +1,8 @@
+
+Spring Boot 搭建无Shiro的框架:
+------------------------------
+1、使用Eclipse开发工具新建了一个工程；
+2、在pom.xml添加了spring boot父节点依赖以及web支持和模板引擎thymeleaf;
+3、编写网页html，注意要放在src/main/resources/templates；
+4、编写启动类；
+5、编写Controller，访问网页。
